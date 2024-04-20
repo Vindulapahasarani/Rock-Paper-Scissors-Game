@@ -1,4 +1,4 @@
-Rock-Paper-Scissors Game
+#Rock-Paper-Scissors Game
 
 Welcome to the Rock-Paper-Scissors game! This simple yet addictive game has been a favorite for generations. Below, you'll find all the information you need to enjoy playing this classic game.
 
@@ -48,5 +48,5 @@ No Cheating:
   Do not attempt to manipulate the game or the program in any way for unfair advantage.
 
 
-  ---------------------------------------------------Enjoy playing Rock-Paper-Scissors! 🎮✊✋✌️-------------------------------------------------------------------------------------------------------------------
+  ---------------------------------------------------Enjoy playing Rock-Paper-Scissors! 🎮✊✋✌️-----------------------------------------------------------------
   
